@@ -1,5 +1,4 @@
-# jogos_g2
-Corrida de Newton
+# corrida de newton
 
 <!DOCTYPE html>
 <html lang="pt-BR">
